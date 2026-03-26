@@ -1,0 +1,4 @@
+# External data Ñ too large or licenseddata/external/# Pipeline outputs in processed/ Ñ gitignored except committed filesdata/processed/**!data/processed/meta_snap.*!data/processed/ea_wq_snap.*!data/processed/stws_snap.*!data/processed/rict_pca_axes.tif# Keep the empty subdirectory structure!data/processed/inla_mods/!data/processed/inla_mods/mods/!data/processed/inla_mods/posts/!data/processed/inla_mods/logs/!data/processed/inla_future_pred/!data/processed/inla_future_pred/preds/!data/processed/inla_future_pred/logs/!data/processed/mods/# R artefacts.Rhistory.RData.Rproj.user/*.Rout*.o[0-9]*# Mac junk.DS_Store~$*# renv library (lock file is committed, library is not)renv/library/renv/python/renv/staging/
+
+# empty directories
+!**/.gitkeep
