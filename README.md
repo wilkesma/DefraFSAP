@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26305468/README.md)
-[README.md](https://github.com/user-attachments/files/26305468/README.md)
 # Expanding Freshwater Biodiversity Models for Species Abundance Target Delivery
 
 This repository contains the code and data underlying the project report *Expanding Freshwater Biodiversity Models for Species Abundance Target Delivery*, produced for the Department for Environment, Food & Rural Affairs (Defra).
