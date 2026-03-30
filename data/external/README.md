@@ -36,9 +36,9 @@ To reconstruct the bulk downloads, users should:
 3. The user must now select each River Basin District in turn
 4. For each River Basin District, click View Observations > Open Filters
 5. Set dates from 01/01/2002 to 31/12/2002
-6. Click Closer Filters then Download
-7. For each year, bind the rows of comma-separate values files for each Rievr Basin District and name the file <year>.csv
-8. Place the processed comma-searate values files in data/external
+6. Click Close Filters then Download
+7. For each year, bind the rows of comma-separated values files for each River Basin District and name the file <year>.csv
+8. Place the processed comma-separated values files in data/external
 
 ---
 
@@ -90,7 +90,7 @@ Users should request the data from Dr Marc Naura ('Marc.J.Naura@cranfield.ac.uk'
 - **File(s):** ASR_CRI.xlsx
 - **Source:** https://amber.international/european-barrier-atlas/
 - **Access:** Creative Commons Attribution 4.0 International
-- **Attribution statement:** Jones, Joshua (2019), “Barrier database (AMBER-GB) for: A Global Assessment of Stream Fragmentation in Great Britain”, Mendeley Data, v1 http://dx.doi.org/10.17632/trsrvw4swg.1
+- **Attribution statement:** AMBER Consortium (2020). The AMBER Barrier Atlas. A Pan-European database of artificial instream barriers. Version 1.0 June 29th 2020. https://amber.international/european-barrier-atlas/
 
 Users should:
 1. Download the comma-separated values file from the source
