@@ -2,7 +2,7 @@
 
 This repository contains the code and data underlying the project report *Expanding Freshwater Biodiversity Models for Species Abundance Target Delivery*, produced for the Department for Environment, Food & Rural Affairs (Defra).
 
-The project models the abundance of 266 freshwater taxa (235 invertebrates, 31 fish) that contribute to England's legally binding species abundance targets under the Environment Act 2021. It establishes workflows to project how Defra's statutory and non-statutory water environment targets could contribute to halting and reversing species declines by 2030 and 2042.
+The project modelled the abundance of up to 266 freshwater taxa (235 invertebrates, 31 fish) that contribute to England's legally binding species abundance targets under the Environment Act 2021. It established workflows to project how Defra's statutory and non-statutory water environment targets could contribute to halting and reversing species declines by 2030 and 2042.
 
 ---
 
@@ -48,7 +48,7 @@ The project models the abundance of 266 freshwater taxa (235 invertebrates, 31 f
 
 ## Pipeline overview
 
-The scripts should be run in the numbered order above. A brief description of each stage is given below.
+The scripts should be run in the numbered order below.
 
 | Step | Script | Description |
 |------|--------|-------------|
@@ -81,7 +81,6 @@ Steps 5, 12 and 16 are computationally intensive and are designed to run as para
 
 ```bash
 git clone https://github.com/wilkesma/DefraFSAP/tree/main
-cd freshwater-biodiversity-models
 ```
 
 ### 2. Install R packages
@@ -124,7 +123,7 @@ The `data/processed/` folder contains four small files committed to the reposito
 
 If you use this code or data, please cite the project report:
 
-> Wilkes, M.A. et al. (2025). Expanding Freshwater Biodiversity Models for Species Abundance Target Delivery. Report to Defra.
+> Wilkes, M. & Purno, R. (2025). Expanding Freshwater Biodiversity Models for Species Abundance Target Delivery. Report to Defra.
 
 ---
 
