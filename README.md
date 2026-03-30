@@ -18,7 +18,6 @@ The project modelled the abundance of up to 266 freshwater taxa (235 invertebrat
 ├── prep_inla_mod_args.R           # (5) Prepare model argument table (INLA species models)
 ├── fit_mod.R                      # (5) Fit monthly water quality GAMMs
 ├── fit_mod_batch.sh               # Batch script for fit_mod.R on HPC
-├── problem_mods.R                 # (5b) Re-fit any failed water quality models
 ├── env_data_prep.R                # (6) Environmental covariate preparation
 ├── historical_pred_data_prep.R    # (7) Data preparation for hindcasting
 ├── future_rainfall.R              # (8) Derive future precipitation anomaly rasters
