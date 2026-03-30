@@ -123,7 +123,7 @@ The `data/processed/` folder contains four small files committed to the reposito
 
 If you use this code or data, please cite the project report:
 
-> Wilkes, M. & Purno, R. (2025). Expanding Freshwater Biodiversity Models for Species Abundance Target Delivery. Report to Defra.
+> Wilkes, M. & Purno, R. (2026). Expanding Freshwater Biodiversity Models for Species Abundance Target Delivery. Report to Defra.
 
 ---
 
